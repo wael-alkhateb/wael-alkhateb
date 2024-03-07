@@ -1,8 +1,11 @@
 # wael-alkhateb
-{
-  "firstName": "Wael",
-  "lastName": "Alkhateb",
-}
+
+   Wael
+
+  Alkhateb
+
 -Skills:HTML,CSS
--I am motivated
+
+-I am motivated for more
+
 -For contact:waelalk92@gmail.com
