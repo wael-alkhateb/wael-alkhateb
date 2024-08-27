@@ -4,7 +4,7 @@
 
   Alkhateb
 
--Skills:HTML,CSS
+-Skills:HTML,CSS,terminal,linux,Github ,js
 
 -I am motivated for more
 
