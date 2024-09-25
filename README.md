@@ -10,18 +10,16 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
 ### 📫 How to reach me:
- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yourname@example.com) 
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:waelalk92@gmail.com) 
   ### 🌟 Projects: 
-  - [Project 1](https://github.com/yourusername/project1): Brief description of what this project is about. 
-  - [Project 2](https://github.com/yourusername/project2): Brief description of what this project is about. 
-  - [Project 3](https://github.com/yourusername/project3): Brief description of what this project is about.
-   ### 📈 GitHub Stats:
-    ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) 
-    How to Customize:
-      1. Replace [Your Name] with your actual name.
-      2. Technical Skills Icons: You can add or remove icons based on your skills. The icons are added using Shields.io badges. 
-      3. Social Media Links: Replace yourusername with your actual username on LinkedIn, Twitter, or any other platform.
-      4. Email Link: Replace yourname@example.com with your email address.
-      5. Projects: Add your GitHub project links and provide a brief description for each project.
-      6. GitHub Stats: Replace yourusername in the GitHub stats image link with your GitHub username. 
+  - [Project 1](https://github.com/wael-alkhateb/gallery-project): Phototo is a simple HTML and CSS-based photo gallery webpage. It showcases a collection of images with a neat and responsive layout, integrating external resources like Font Awesome icons and Google Fonts. 
+  - [Project 2](https://github.com/wael-alkhateb/BRILLEN): This project is a responsive website for "BRILLEN," showcasing a collection of eyewear products including glasses and sunglasses. The site is designed with HTML, CSS, and Bootstrap, providing a modern and attractive user interface. 
+  - [Project 3](https://github.com/wael-alkhateb/terminal-program-verkaufsautomat): This project simulates a simple vending machine. The user can select products, pay for them , and receive change based on the available denominations in the cash box.
+   ### 📈 GitHub Readme Stats:
+    ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wael-alkhateb&show_icons=true&theme=radical) 
+
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wael-alkhateb&layout=compact&theme=radical) 
+
+    ![trophy](https://github-readme-stats.vercel.app/?username=wael-alkhateb&theme=onedark)
+
+    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wael-alkhateb&theme=radical)
